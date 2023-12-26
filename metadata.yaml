@@ -1,0 +1,52 @@
+_repo: Valittuja-sivuja_72215
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Tuura, Timo
+    aliases:
+    - Tuura, J. W.
+    - Tuura, Juhana Vilhelm
+    birthdate: 1885
+    deathdate: 1963
+    gutenberg_agent_id: '46998'
+    url: http://www.gutenberg.org/2009/agents/46998
+    wikipedia: https://fi.wikipedia.org/wiki/J._W._Tuura
+creator:
+  author:
+    agent_name: Söderberg, Hjalmar
+    aliases:
+    - Söderberg, Hjalmar Emil Fredrik
+    - Soderberg, Hjalmar
+    - Hjalmar Söderberg
+    birthdate: 1869
+    deathdate: 1941
+    gutenberg_agent_id: '24935'
+    url: http://www.gutenberg.org/2009/agents/24935
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Hjalmar_S%C3%B6derberg
+    - https://fi.wikipedia.org/wiki/Hjalmar_S%C3%B6derberg
+    - https://sv.wikipedia.org/wiki/Hjalmar_S%C3%B6derberg
+description: ''
+gutenberg_issued: '2023-11-24'
+identifiers:
+  gutenberg: '72215'
+language: fi
+pgterms:marc905: 20231113131925sderberg
+pgterms:marc906: '1908'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- !lcsh 'Short stories, Swedish -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: 'Kertomuskokoelmasta Främlingarna: Sininen ankkuri. Kirkkoherran
+  lehmät. Kuudes aisti. Pelaajat -- Kertomuskokoelmasta Det mörknar öfver vägen: Blom.
+  Kiinalainen. Suutelo. Gärda. Arkimedeksen piste. Takku. Jokimatka. Pääkonsuli hovitanssijaisissa.
+  Unelma vanhuudesta. Palava kaupunki. Sibyllan luola.'
+title: Valittuja sivuja
+url: http://www.gutenberg.org/ebooks/72215
