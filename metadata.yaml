@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '46998'
     url: http://www.gutenberg.org/2009/agents/46998
     wikipedia: https://fi.wikipedia.org/wiki/J._W._Tuura
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Söderberg, Hjalmar
@@ -27,6 +30,8 @@ creator:
     - https://fi.wikipedia.org/wiki/Hjalmar_S%C3%B6derberg
     - https://sv.wikipedia.org/wiki/Hjalmar_S%C3%B6derberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72215#Valittuja-sivuja
 gutenberg_issued: '2023-11-24'
 identifiers:
   gutenberg: '72215'
